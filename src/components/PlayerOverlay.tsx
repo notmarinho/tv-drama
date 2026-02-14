@@ -1,4 +1,4 @@
-import { StyleSheet, TVFocusGuideView, View } from "react-native";
+import { Platform, StyleSheet, TVFocusGuideView, View } from "react-native";
 import React, { useCallback, useRef } from "react";
 import { LinearGradient } from "expo-linear-gradient";
 
@@ -43,8 +43,9 @@ export const PlayerOverlay = React.memo(() => {
   const progressBarWidthRef = useRef(0);
 
   // Focus forward button when video ended and has next episode, otherwise focus play button
-  const initialFocusRef = isEnded && hasNextInPlaylist ? forwardButtonRef : playButtonRef;
-  
+  const initialFocusRef =
+    isEnded && hasNextInPlaylist ? forwardButtonRef : playButtonRef;
+
   useInitialFocus({
     ref: initialFocusRef,
     enabled: showOverlay,
@@ -77,7 +78,11 @@ export const PlayerOverlay = React.memo(() => {
         trapFocusRight
         style={styles.overlayFocusGuide}
       >
-        <View style={styles.overlayHeaderRow}>
+        <TVFocusGuideView
+          style={styles.overlayHeaderRow}
+          trapFocusRight
+          trapFocusLeft
+        >
           <FocusableIconButton
             name="arrow-back"
             size={ICON_SIZE}
@@ -95,7 +100,7 @@ export const PlayerOverlay = React.memo(() => {
               onFocus={onInteraction}
             />
           )}
-        </View>
+        </TVFocusGuideView>
 
         <View style={styles.overlayFooterContainer}>
           <View style={styles.overlayFooterTitleContainer}>
@@ -105,7 +110,13 @@ export const PlayerOverlay = React.memo(() => {
             <ThemedText>{episode?.description}</ThemedText>
           </View>
 
-          <View style={styles.playerControlsContainer}>
+          <TVFocusGuideView
+            style={styles.playerControlsContainer}
+            autoFocus={Platform.isTVOS}
+            trapFocusRight
+            trapFocusLeft
+            trapFocusDown
+          >
             <FocusableIconButton
               ref={playButtonRef}
               hasTVPreferredFocus
@@ -140,7 +151,7 @@ export const PlayerOverlay = React.memo(() => {
                 {formatTime(duration)}
               </ThemedText>
             </View>
-          </View>
+          </TVFocusGuideView>
         </View>
       </TVFocusGuideView>
     </AnimatedLinearGradient>

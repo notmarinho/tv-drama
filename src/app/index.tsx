@@ -1,7 +1,6 @@
 import { useCallback } from "react";
-import { StyleSheet } from "react-native";
+import { Platform, StyleSheet, TVFocusGuideView } from "react-native";
 
-import { ThemedView } from "@/components/ThemedView";
 import { HeroHeader } from "@/components/HeroHeader";
 import { ShelfRow } from "@/components/ShelfRow";
 import Spacings from "@/constants/Spacings";
@@ -9,9 +8,11 @@ import { FlashList } from "@shopify/flash-list";
 import { router } from "expo-router";
 import { useHomeLayout } from "@/lib/api/home-layout/useHomeLayout";
 import { HomeLayoutRow } from "@/lib/types";
+import { useTheme } from "@/hooks/useTheme";
 
 export default function HomeScreen() {
   const { data: homeLayout } = useHomeLayout();
+  const colors = useTheme();
 
   const handlePressItem = useCallback(() => {
     router.push("/show-detail");
@@ -25,14 +26,17 @@ export default function HomeScreen() {
   );
 
   return (
-    <ThemedView style={styles.container}>
+    <TVFocusGuideView
+      autoFocus={Platform.isTVOS}
+      style={[styles.container, { backgroundColor: colors.background }]}
+    >
       <HeroHeader />
       <FlashList
         data={homeLayout?.rows}
         renderItem={renderShelfRow}
         contentContainerStyle={styles.content}
       />
-    </ThemedView>
+    </TVFocusGuideView>
   );
 }
 
