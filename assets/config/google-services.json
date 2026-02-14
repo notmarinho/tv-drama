@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43656183417",
+    "project_id": "tv-test-84b2d",
+    "storage_bucket": "tv-test-84b2d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43656183417:android:df63d1670237b6fba19ea8",
+        "android_client_info": {
+          "package_name": "com.mateussantos.dramatv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBe3r_nrOqWB0VFA6-PYQXJ2fnoNBn9Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

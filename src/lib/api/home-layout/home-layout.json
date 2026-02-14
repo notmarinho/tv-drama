@@ -1,0 +1,431 @@
+{
+  "rows": [
+    {
+      "id": "@most-trending",
+      "title": "Most Trending",
+      "shows": [
+        {
+          "id": "@the-alphas-mate",
+          "title": "The Alphas Mate",
+          "description": "In a world where wolf packs rule in secret, a young woman discovers she is the fated mate of not one but two powerful alphas. Torn between loyalty, desire, and pack politics, she must navigate a dangerous path to claim her destiny and survive the brutal hierarchy of the supernatural world.",
+          "poster": "https://picsum.photos/id/60/400/600",
+          "heroImage": "https://picsum.photos/id/60/1920/1080",
+          "releaseDate": "2023-03-12",
+          "lastSeasonDate": "2024-08-05",
+          "lastEpisodeDate": "2024-08-05",
+          "seasons": [
+            {
+              "id": "@the-alphas-mate-season-1",
+              "description": "Luna learns she is the chosen mate of rival pack alphas. As bonds awaken and tensions rise, she must choose between the life she knew and the dangerous love that claims her.",
+              "episodes": [
+                {
+                  "id": "@the-alphas-mate-s1-e1",
+                  "title": "The Bond",
+                  "description": "Luna's ordinary life shatters when she crosses paths with two dominant alphas. The first touch ignites the mate bond—and a war between packs that will change everything.",
+                  "poster": "https://picsum.photos/id/70/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/16.m3u8"
+                },
+                {
+                  "id": "@the-alphas-mate-s1-e2",
+                  "title": "Claimed",
+                  "description": "Both alphas demand Luna's allegiance. She must navigate their rivalry while uncovering the truth behind her own hidden lineage and why she was chosen.",
+                  "poster": "https://picsum.photos/id/71/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/17.m3u8"
+                },
+                {
+                  "id": "@the-alphas-mate-s1-e3",
+                  "title": "Pack Law",
+                  "description": "Luna is brought before the council. Old laws and ancient grudges threaten to tear the bond apart before it can fully form.",
+                  "poster": "https://picsum.photos/id/72/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/37.m3u8"
+                },
+                {
+                  "id": "@the-alphas-mate-s1-e4",
+                  "title": "First Moon",
+                  "description": "The full moon rises and Luna's true nature emerges. The alphas must unite to protect her from enemies who would use her power for their own ends.",
+                  "poster": "https://picsum.photos/id/73/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/18.m3u8"
+                },
+                {
+                  "id": "@the-alphas-mate-s1-e5",
+                  "title": "Alpha's Choice",
+                  "description": "Luna faces an impossible decision: accept the bond and risk war, or walk away and lose everything. The season finale changes the balance of power forever.",
+                  "poster": "https://picsum.photos/id/74/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/30.m3u8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "@love-captive-to-the-mafia-boss",
+          "title": "Love Captive to the Mafia Boss",
+          "description": "When she accidentally witnesses a crime she was never meant to see, a woman is taken captive by a ruthless mafia boss. What begins as a hostage situation turns into a dangerous game of power, obsession, and forbidden attraction. She must decide: escape the underworld or surrender to the man who holds her heart.",
+          "poster": "https://picsum.photos/id/61/400/600",
+          "heroImage": "https://picsum.photos/id/61/1920/1080",
+          "releaseDate": "2023-06-18",
+          "lastSeasonDate": "2024-09-22",
+          "lastEpisodeDate": "2024-09-22",
+          "seasons": [
+            {
+              "id": "@love-captive-season-1",
+              "description": "Taken as collateral, she finds herself under the watch of the most feared man in the city. As lines blur between captive and obsession, survival means playing his game.",
+              "episodes": [
+                {
+                  "id": "@love-captive-s1-e1",
+                  "title": "Witness",
+                  "description": "Elena sees something she shouldn't. The Don's men bring her to him—and he decides to keep her close instead of silencing her forever.",
+                  "poster": "https://picsum.photos/id/75/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/16.m3u8"
+                },
+                {
+                  "id": "@love-captive-s1-e2",
+                  "title": "Terms",
+                  "description": "Elena negotiates for her freedom. The boss offers a deal: stay until he says otherwise, and she might leave alive. She doesn't expect to see the man behind the monster.",
+                  "poster": "https://picsum.photos/id/76/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/17.m3u8"
+                },
+                {
+                  "id": "@love-captive-s1-e3",
+                  "title": "Enemies Close",
+                  "description": "A rival family makes a move. Elena is caught in the crossfire—and the boss must choose between his empire and the woman he can't let go.",
+                  "poster": "https://picsum.photos/id/77/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/37.m3u8"
+                },
+                {
+                  "id": "@love-captive-s1-e4",
+                  "title": "Trust",
+                  "description": "Elena learns a secret that could destroy him. She must decide whether to use it or protect the man who has become more than her captor.",
+                  "poster": "https://picsum.photos/id/78/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/18.m3u8"
+                },
+                {
+                  "id": "@love-captive-s1-e5",
+                  "title": "His",
+                  "description": "The line between captive and queen is crossed. But in the mafia, love is a weakness—and their enemies are ready to strike.",
+                  "poster": "https://picsum.photos/id/79/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/30.m3u8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "@alpha-kings-hated-princess",
+          "title": "Alpha King's Hated Princess",
+          "description": "The despised princess of a fallen kingdom is forced to marry the alpha king who conquered her land. He wants her crown, not her heart—but fate has other plans. As political schemes and old wounds collide, she must prove her worth in a court that wants her dead and win the heart of a king who swore to never love.",
+          "poster": "https://picsum.photos/id/62/400/600",
+          "heroImage": "https://picsum.photos/id/62/1920/1080",
+          "releaseDate": "2023-09-04",
+          "lastSeasonDate": "2024-10-14",
+          "lastEpisodeDate": "2024-10-14",
+          "seasons": [
+            {
+              "id": "@alpha-king-season-1",
+              "description": "Princess Lyra is wed to the Alpha King as a trophy of war. Hated by his court and ignored by her husband, she must survive and find a way to reclaim her destiny.",
+              "episodes": [
+                {
+                  "id": "@alpha-king-s1-e1",
+                  "title": "The Wedding",
+                  "description": "Lyra is forced to marry the man who destroyed her kingdom. The ceremony is a humiliation—but she vows to survive and one day reclaim her throne.",
+                  "poster": "https://picsum.photos/id/80/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/16.m3u8"
+                },
+                {
+                  "id": "@alpha-king-s1-e2",
+                  "title": "The Court",
+                  "description": "Lyra enters the alpha court as the hated outsider. She discovers allies in unexpected places—and enemies who want her dead before she can bear an heir.",
+                  "poster": "https://picsum.photos/id/81/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/17.m3u8"
+                },
+                {
+                  "id": "@alpha-king-s1-e3",
+                  "title": "The King's Past",
+                  "description": "Lyra uncovers the truth behind the war that destroyed her family. The Alpha King's hatred may have a reason—and it changes everything she thought she knew.",
+                  "poster": "https://picsum.photos/id/82/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/37.m3u8"
+                },
+                {
+                  "id": "@alpha-king-s1-e4",
+                  "title": "Alliance",
+                  "description": "An assassination attempt forces the king and queen to work together. For the first time, he sees her as more than a political prisoner.",
+                  "poster": "https://picsum.photos/id/83/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/18.m3u8"
+                },
+                {
+                  "id": "@alpha-king-s1-e5",
+                  "title": "Crown of Thorns",
+                  "description": "A plot to overthrow the king puts Lyra at the center. She must choose: side with her husband or with those who would restore her birthright.",
+                  "poster": "https://picsum.photos/id/84/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/30.m3u8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "@spark-me-tenderly",
+          "title": "Spark Me Tenderly",
+          "description": "A talented chef with a guarded heart crosses paths with a charismatic firefighter who isn't afraid to wear his emotions on his sleeve. After a kitchen fire brings them together, they discover that healing old wounds and building something new requires more than chemistry—it takes trust, patience, and a love that sparks tenderly.",
+          "poster": "https://picsum.photos/id/63/400/600",
+          "heroImage": "https://picsum.photos/id/63/1920/1080",
+          "releaseDate": "2024-01-15",
+          "lastSeasonDate": "2024-11-03",
+          "lastEpisodeDate": "2024-11-03",
+          "seasons": [
+            {
+              "id": "@spark-me-season-1",
+              "description": "Maya's restaurant is damaged in a fire. The firefighter who saves it also starts to melt the walls around her heart—but her past isn't ready to let go.",
+              "episodes": [
+                {
+                  "id": "@spark-me-s1-e1",
+                  "title": "Flames",
+                  "description": "A late-night fire threatens Maya's restaurant. Firefighter Jake is first on the scene—and first to see how much she's lost.",
+                  "poster": "https://picsum.photos/id/85/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/16.m3u8"
+                },
+                {
+                  "id": "@spark-me-s1-e2",
+                  "title": "Rebuild",
+                  "description": "Jake volunteers to help Maya reopen. As they work side by side, she realizes he's the first person in years who isn't afraid of her sharp edges.",
+                  "poster": "https://picsum.photos/id/86/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/17.m3u8"
+                },
+                {
+                  "id": "@spark-me-s1-e3",
+                  "title": "Scars",
+                  "description": "Maya's ex returns with a claim on her business. Jake stands by her—but she must confront why she's been running from love.",
+                  "poster": "https://picsum.photos/id/87/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/37.m3u8"
+                },
+                {
+                  "id": "@spark-me-s1-e4",
+                  "title": "First Date",
+                  "description": "Maya finally says yes to a date. A perfect evening is threatened when Jake's dangerous job collides with their new beginning.",
+                  "poster": "https://picsum.photos/id/88/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/18.m3u8"
+                },
+                {
+                  "id": "@spark-me-s1-e5",
+                  "title": "Spark",
+                  "description": "The grand reopening brings the whole community together. Maya and Jake must decide if their spark is strong enough to become a lasting flame.",
+                  "poster": "https://picsum.photos/id/89/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/30.m3u8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "@milan-in-april",
+          "title": "Milan in April",
+          "description": "An aspiring fashion designer leaves her small town for Milan, where she lands an internship at a legendary atelier. There she clashes with the brilliant but cold creative director—until the magic of spring in Milan and the runways of Fashion Week force them to see each other in a new light. Romance blooms among the fabric, ambition, and cobblestone streets.",
+          "poster": "https://picsum.photos/id/64/400/600",
+          "heroImage": "https://picsum.photos/id/64/1920/1080",
+          "releaseDate": "2024-02-26",
+          "lastSeasonDate": "2024-11-18",
+          "lastEpisodeDate": "2024-11-18",
+          "seasons": [
+            {
+              "id": "@milan-season-1",
+              "description": "Sofia arrives in Milan with a portfolio and a dream. The atelier's director seems determined to break her—until April in Milan works its spell on them both.",
+              "episodes": [
+                {
+                  "id": "@milan-s1-e1",
+                  "title": "Arrival",
+                  "description": "Sofia touches down in Milan with nothing but her sketches and determination. Her first day at the atelier ends in a clash with the infamous Alessandro Vieri.",
+                  "poster": "https://picsum.photos/id/90/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/16.m3u8"
+                },
+                {
+                  "id": "@milan-s1-e2",
+                  "title": "Atelier",
+                  "description": "Sofia proves her talent in the workshop. Alessandro takes notice—but his past with the industry makes him reluctant to trust another outsider.",
+                  "poster": "https://picsum.photos/id/91/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/17.m3u8"
+                },
+                {
+                  "id": "@milan-s1-e3",
+                  "title": "April Rain",
+                  "description": "A rainy afternoon traps Sofia and Alessandro in the atelier. For the first time, they talk—and discover they have more in common than design.",
+                  "poster": "https://picsum.photos/id/92/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/37.m3u8"
+                },
+                {
+                  "id": "@milan-s1-e4",
+                  "title": "Fashion Week",
+                  "description": "The collection is chosen for Fashion Week. Sofia and Alessandro must work as one—but old rivals and new feelings threaten to unravel everything.",
+                  "poster": "https://picsum.photos/id/93/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/18.m3u8"
+                },
+                {
+                  "id": "@milan-s1-e5",
+                  "title": "Runway",
+                  "description": "The show goes on. Backstage and on the cobblestones of Milan, Sofia and Alessandro must choose between reputation and the love that bloomed in April.",
+                  "poster": "https://picsum.photos/id/94/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/30.m3u8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "@night-with-my-vampire-mate",
+          "title": "Night with my Vampire Mate",
+          "description": "She thought she was human—until the night she woke up craving blood and bound to a centuries-old vampire. Now she must navigate a hidden world of covens, ancient rivalries, and a mate bond that pulls her toward a vampire lord who has waited lifetimes for her. Love and hunger intertwine in the dark.",
+          "poster": "https://picsum.photos/id/65/400/600",
+          "heroImage": "https://picsum.photos/id/65/1920/1080",
+          "releaseDate": "2024-04-08",
+          "lastSeasonDate": "2024-12-02",
+          "lastEpisodeDate": "2024-12-02",
+          "seasons": [
+            {
+              "id": "@vampire-mate-season-1",
+              "description": "Raven's transformation awakens her bond with the vampire lord Cassian. As she learns to live between two worlds, enemies close in and the bond demands a choice.",
+              "episodes": [
+                {
+                  "id": "@vampire-mate-s1-e1",
+                  "title": "Awakening",
+                  "description": "Raven wakes from a mysterious attack—changed. A stranger appears in the night claiming she is his mate and that she is no longer fully human.",
+                  "poster": "https://picsum.photos/id/95/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/16.m3u8"
+                },
+                {
+                  "id": "@vampire-mate-s1-e2",
+                  "title": "The Covenant",
+                  "description": "Cassian brings Raven to his coven. She must learn their laws and control her new hunger—while resisting the pull of the mate bond that grows stronger every night.",
+                  "poster": "https://picsum.photos/id/96/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/17.m3u8"
+                },
+                {
+                  "id": "@vampire-mate-s1-e3",
+                  "title": "Enemy Blood",
+                  "description": "A rival coven targets Raven as a way to hurt Cassian. She discovers the depth of her new powers—and the price of the bond.",
+                  "poster": "https://picsum.photos/id/97/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/37.m3u8"
+                },
+                {
+                  "id": "@vampire-mate-s1-e4",
+                  "title": "First Bite",
+                  "description": "Raven's control slips. She must feed from Cassian to survive—crossing a line that will tie them together in blood and desire.",
+                  "poster": "https://picsum.photos/id/98/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/18.m3u8"
+                },
+                {
+                  "id": "@vampire-mate-s1-e5",
+                  "title": "Eternal Night",
+                  "description": "The coven faces an ancient threat. Raven and Cassian must embrace the full bond—or lose each other and their world forever.",
+                  "poster": "https://picsum.photos/id/99/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/30.m3u8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "@mate-mine",
+          "title": "Mate Mine",
+          "description": "In a world where fated mates are rare and coveted, she has spent years hiding from the bond—until he finds her. He is ruthless, possessive, and certain she belongs to him. As old enemies and pack politics close in, they must choose: deny the bond and stay safe, or claim each other and face the consequences together.",
+          "poster": "https://picsum.photos/id/66/400/600",
+          "heroImage": "https://picsum.photos/id/66/1920/1080",
+          "releaseDate": "2024-05-20",
+          "lastSeasonDate": "2024-12-16",
+          "lastEpisodeDate": "2024-12-16",
+          "seasons": [
+            {
+              "id": "@mate-mine-season-1",
+              "description": "She ran from the mate bond for years. Now he has tracked her down—and he has no intention of letting her go. But claiming her means dragging her into a war he never wanted her to see.",
+              "episodes": [
+                {
+                  "id": "@mate-mine-s1-e1",
+                  "title": "Found",
+                  "description": "After years of hiding, she is finally cornered. The alpha who has been hunting her makes it clear: she is his mate, and he will not walk away again.",
+                  "poster": "https://picsum.photos/id/100/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/16.m3u8"
+                },
+                {
+                  "id": "@mate-mine-s1-e2",
+                  "title": "Mine",
+                  "description": "He takes her back to his territory. She must navigate his pack, his past, and the growing pull of the bond she has spent so long resisting.",
+                  "poster": "https://picsum.photos/id/101/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/17.m3u8"
+                },
+                {
+                  "id": "@mate-mine-s1-e3",
+                  "title": "Enemy at the Gate",
+                  "description": "A rival pack attacks. She discovers the real reason he needed to find her—and what he is willing to do to keep her safe.",
+                  "poster": "https://picsum.photos/id/102/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/37.m3u8"
+                },
+                {
+                  "id": "@mate-mine-s1-e4",
+                  "title": "Claimed",
+                  "description": "She stops fighting the bond. But claiming each other in front of the pack makes them both targets—and his enemies are already moving.",
+                  "poster": "https://picsum.photos/id/103/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/18.m3u8"
+                },
+                {
+                  "id": "@mate-mine-s1-e5",
+                  "title": "Mate Mine",
+                  "description": "The final battle forces them to stand together. When the dust settles, they must decide what kind of life they will build—and what they are willing to sacrifice for it.",
+                  "poster": "https://picsum.photos/id/104/400/600",
+                  "videoSource": "https://dj0vkl2i4vsbo.cloudfront.net/convert/I'm%20Obsessed%20With%20My%20Boss%20Part%20I/en/2024-05-23%2012:01:51/30.m3u8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "@coming-soon",
+      "title": "Coming Soon",
+      "shows": [
+        {
+          "id": "@coming-soon-1",
+          "title": "Stranger Things",
+          "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl. Set in 1980s Indiana, friends and family fight to save their town from otherworldly threats.",
+          "poster": "https://picsum.photos/id/50/400/600",
+          "heroImage": "https://picsum.photos/id/50/1920/1080",
+          "releaseDate": "2025-01-01",
+          "lastSeasonDate": null,
+          "lastEpisodeDate": null,
+          "seasons": []
+        },
+        {
+          "id": "@coming-soon-2",
+          "title": "The Last of Us",
+          "description": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope. Together they journey across the post-apocalyptic United States, facing infected and desperate survivors.",
+          "poster": "https://picsum.photos/id/51/400/600",
+          "heroImage": "https://picsum.photos/id/51/1920/1080",
+          "releaseDate": "2025-03-15",
+          "lastSeasonDate": null,
+          "lastEpisodeDate": null,
+          "seasons": []
+        },
+        {
+          "id": "@coming-soon-3",
+          "title": "Succession",
+          "description": "The Roy family controls one of the biggest media and entertainment conglomerates in the world. As patriarch Logan Roy's health declines, his four children compete for power and influence in a ruthless battle for the company.",
+          "poster": "https://picsum.photos/id/52/400/600",
+          "heroImage": "https://picsum.photos/id/52/1920/1080",
+          "releaseDate": "2025-06-01",
+          "lastSeasonDate": null,
+          "lastEpisodeDate": null,
+          "seasons": []
+        },
+        {
+          "id": "@coming-soon-4",
+          "title": "The Bear",
+          "description": "A young chef from the fine dining world returns to Chicago to run his family's sandwich shop after the death of his brother. He must balance the chaos of the kitchen with his grief and the legacy of his family's restaurant.",
+          "poster": "https://picsum.photos/id/53/400/600",
+          "heroImage": "https://picsum.photos/id/53/1920/1080",
+          "releaseDate": "2025-08-20",
+          "lastSeasonDate": null,
+          "lastEpisodeDate": null,
+          "seasons": []
+        }
+      ]
+    }
+  ]
+}
