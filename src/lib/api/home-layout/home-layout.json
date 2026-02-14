@@ -13,6 +13,7 @@
           "releaseDate": "2023-03-12",
           "lastSeasonDate": "2024-08-05",
           "lastEpisodeDate": "2024-08-05",
+          "isTop": false,
           "seasons": [
             {
               "id": "@the-alphas-mate-season-1",
@@ -66,6 +67,7 @@
           "releaseDate": "2023-06-18",
           "lastSeasonDate": "2024-09-22",
           "lastEpisodeDate": "2024-09-22",
+          "isTop": true,
           "seasons": [
             {
               "id": "@love-captive-season-1",
@@ -119,6 +121,7 @@
           "releaseDate": "2023-09-04",
           "lastSeasonDate": "2024-10-14",
           "lastEpisodeDate": "2024-10-14",
+          "isTop": false,
           "seasons": [
             {
               "id": "@alpha-king-season-1",
@@ -172,6 +175,7 @@
           "releaseDate": "2024-01-15",
           "lastSeasonDate": "2024-11-03",
           "lastEpisodeDate": "2024-11-03",
+          "isTop": false,
           "seasons": [
             {
               "id": "@spark-me-season-1",
@@ -223,8 +227,9 @@
           "poster": "https://picsum.photos/id/64/400/600",
           "heroImage": "https://picsum.photos/id/64/1920/1080",
           "releaseDate": "2024-02-26",
-          "lastSeasonDate": "2024-11-18",
-          "lastEpisodeDate": "2024-11-18",
+          "lastSeasonDate": "2026-02-14",
+          "lastEpisodeDate": "2026-02-14",
+          "isTop": false,
           "seasons": [
             {
               "id": "@milan-season-1",
@@ -278,6 +283,7 @@
           "releaseDate": "2024-04-08",
           "lastSeasonDate": "2024-12-02",
           "lastEpisodeDate": "2024-12-02",
+          "isTop": false,
           "seasons": [
             {
               "id": "@vampire-mate-season-1",
@@ -331,6 +337,7 @@
           "releaseDate": "2024-05-20",
           "lastSeasonDate": "2024-12-16",
           "lastEpisodeDate": "2024-12-16",
+          "isTop": false,
           "seasons": [
             {
               "id": "@mate-mine-season-1",

@@ -1,5 +1,6 @@
 import type { StyleProp, ViewStyle, ImageStyle } from "react-native";
 import type { ImageProps } from "expo-image";
+import { Show } from "@/lib/types";
 
 export type FocusableCardProps = {
   children: React.ReactNode;
@@ -21,9 +22,15 @@ export type FocusableCardProgressBarProps = {
   trackColor?: string;
 };
 
+export type FocusableCardBadgeProps = {
+  isTop: Show["isTop"];
+  lastSeasonDate: Show["lastSeasonDate"];
+};
+
 export type FocusableCardComponent = React.ForwardRefExoticComponent<
   FocusableCardProps & React.RefAttributes<import("react-native").View>
 > & {
   Image: React.ComponentType<FocusableCardImageProps>;
   ProgressBar: React.ComponentType<FocusableCardProgressBarProps>;
+  Badge: React.ComponentType<FocusableCardBadgeProps>;
 };

@@ -1,16 +1,7 @@
 import { TextStyle } from "react-native";
 import { scaleSize } from "./Ui";
 
-export type TypographyScheme =
-  | "default"
-  | "defaultSemiBold"
-  | "description"
-  | "title"
-  | "subtitle"
-  | "subtitleSemiBold"
-  | "link";
-
-export const Typography: Record<TypographyScheme, TextStyle> = {
+export const Typography: Record<string, TextStyle> = {
   default: {
     fontSize: scaleSize(16),
     lineHeight: scaleSize(24),
@@ -44,4 +35,10 @@ export const Typography: Record<TypographyScheme, TextStyle> = {
     lineHeight: scaleSize(30),
     fontSize: scaleSize(16),
   },
-};
+  badge: {
+    fontSize: scaleSize(10),
+    fontWeight: "bold",
+  },
+} as const;
+
+export type TypographyScheme = keyof typeof Typography;

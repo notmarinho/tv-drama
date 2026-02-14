@@ -22,6 +22,7 @@ export type Show = {
   lastSeasonDate: string | null;
   lastEpisodeDate: string | null;
   seasons: ShowSeason[];
+  isTop: boolean;
 };
 
 export type ShowSeason = {

@@ -23,6 +23,10 @@ export const ShowCard = React.memo(function ShowCard({
 
   return (
     <FocusableCard onPress={onPress} onFocus={handleOnFocus} style={style}>
+      <FocusableCard.Badge
+        isTop={item.isTop}
+        lastSeasonDate={item.lastSeasonDate}
+      />
       <FocusableCard.Image source={SHOWS_BANNER[item.id]} contentFit="cover" />
     </FocusableCard>
   );
