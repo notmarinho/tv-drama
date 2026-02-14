@@ -2,7 +2,7 @@
 
 ## 🚀 How to use
 
-- `cd` into the project
+To run the project you must run the following commands on the project's root.
 
 With Yarn
 
@@ -23,6 +23,7 @@ npm run io
 ```
 
 ## Demo
+
 https://github.com/user-attachments/assets/61c396bf-d75b-4452-bc5a-60a60b4a33e1
 
 ## Project Decisions
@@ -31,6 +32,7 @@ https://github.com/user-attachments/assets/61c396bf-d75b-4452-bc5a-60a60b4a33e1
 - **Episodes Images**: Since I did not had images for each episode I used a placeholder service to present random images of the episodes.
 
 ## State Management Diagram
+
 <img width="2752" height="1536" alt="data_diagram" src="https://github.com/user-attachments/assets/1946d40b-6d3f-456a-b0de-f8bab5405f3b" />
 
 ### State management Details
