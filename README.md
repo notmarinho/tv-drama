@@ -1,10 +1,5 @@
 # Drama TV
 
-
-https://github.com/user-attachments/assets/61c396bf-d75b-4452-bc5a-60a60b4a33e1
-
-
-
 ## 🚀 How to use
 
 - `cd` into the project
@@ -27,12 +22,18 @@ npm run android
 npm run io
 ```
 
+## Demo
+https://github.com/user-attachments/assets/61c396bf-d75b-4452-bc5a-60a60b4a33e1
+
 ## Project Decisions
 
 - **Show-detail screen**: A dedicated page-detail screen was added to manage the episodes of each show. This screen lists seasons and episodes for a given show and lets users navigate and select episodes (e.g. for playback or “continue watching”), keeping episode browsing and selection separate from the home layout.
 - **Episodes Images**: Since I did not had images for each episode I used a placeholder service to present random images of the episodes.
 
-## State management
+## State Management Diagram
+<img width="2752" height="1536" alt="data_diagram" src="https://github.com/user-attachments/assets/1946d40b-6d3f-456a-b0de-f8bab5405f3b" />
+
+### State management Details
 
 The app uses **Zustand** for global state. There are three stores:
 
