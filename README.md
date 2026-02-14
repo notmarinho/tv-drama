@@ -1,6 +1,9 @@
 # Drama TV
 
-https://github.com/user-attachments/assets/a3095fc4-69f6-4a29-b7e1-cfabcad5b592
+
+https://github.com/user-attachments/assets/61c396bf-d75b-4452-bc5a-60a60b4a33e1
+
+
 
 ## 🚀 How to use
 
@@ -27,7 +30,7 @@ npm run io
 ## Project Decisions
 
 - **Show-detail screen**: A dedicated page-detail screen was added to manage the episodes of each show. This screen lists seasons and episodes for a given show and lets users navigate and select episodes (e.g. for playback or “continue watching”), keeping episode browsing and selection separate from the home layout.
-- **Episodes Images**: Since I did not had images for each episode I used a placeholder service to present random images on the espisodes.
+- **Episodes Images**: Since I did not had images for each episode I used a placeholder service to present random images of the episodes.
 
 ## State management
 
