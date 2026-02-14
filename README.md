@@ -4,22 +4,22 @@
 
 To run the project you must run the following commands on the project's root.
 
-With Yarn
-
-```sh
-yarn
-yarn prebuild   # Executes clean Expo prebuild with TV modifications (required first!)
-yarn android    # Build for Android TV
-yarn ios        # Build and run for Apple TV (uses most recently opened simulator)
-```
-
 With NPM
 
 ```sh
 npm i
-npm run prebuild
-npm run android
-npm run io
+npm run prebuild  # Executes clean Expo prebuild with TV modifications (required first!)
+npm run ios       # Build for Android TV
+npm run android   # Build and run for Apple TV (uses most recently opened simulator)
+```
+
+With Yarn
+
+```sh
+yarn
+yarn prebuild
+yarn ios
+yarn android
 ```
 
 ## Demo
