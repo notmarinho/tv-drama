@@ -13,8 +13,6 @@ import { HomeLayoutRow } from "@/lib/types";
 export default function HomeScreen() {
   const { data: homeLayout } = useHomeLayout();
 
-  console.log("Rendered");
-
   const handlePressItem = useCallback(() => {
     router.push("/show-detail");
   }, []);

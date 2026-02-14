@@ -6,7 +6,7 @@ import Spacings from "@/constants/Spacings";
 import { LEFT_PADDING } from "@/constants/Ui";
 import { useFocusedShow } from "@/hooks/useFocusedShow";
 import HeroImage from "./HeroImage";
-import Animated, { FadeIn, FadeOut } from "react-native-reanimated";
+import Animated, { FadeIn } from "react-native-reanimated";
 import { Typography } from "@/constants/Typography";
 import { useTheme } from "@/hooks/useTheme";
 import { SHOWS_BANNER } from "@/ utils/shows-banner";
@@ -24,7 +24,6 @@ export function HeroHeader() {
           key={focusedShow?.title}
           style={[Typography.subtitle, { color: colors.text }]}
           entering={FadeIn}
-          exiting={FadeOut}
         >
           {focusedShow?.title ?? "Select a show"}
         </Animated.Text>
@@ -32,7 +31,6 @@ export function HeroHeader() {
           key={focusedShow?.description}
           style={[Typography.description, { color: colors.text }]}
           entering={FadeIn}
-          exiting={FadeOut}
         >
           {focusedShow?.description ??
             "Navigate through the shelves and focus on an item to see the details."}
